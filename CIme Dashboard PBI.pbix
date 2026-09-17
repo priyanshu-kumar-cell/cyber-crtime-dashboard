@@ -1,0 +1,29 @@
+# Cyber Analytics Dashboard – Power BI
+
+## 📊 Project Overview
+This project presents an interactive Cyber Attack Analytics Dashboard built using Power BI. It analyzes global cyber attack data to identify trends, financial losses, affected users, attack types, vulnerabilities, and industry impact.
+
+## 🔍 Key Features
+- Total financial losses and affected users
+- Country-wise cyber attack impact
+- Analysis by attack type and vulnerability
+- Industry-wise and year-wise trends
+- Attack source comparison
+- Interactive slicers for dynamic filtering
+
+## 🛠 Tools & Technologies
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+
+## 📁 Files Included
+- Power BI dashboard (.pbix)
+- Dataset (if applicable)
+- Screenshots of dashboard
+
+## 🎯 Objective
+To provide actionable insights into cyber threats and support data-driven cybersecurity decisions.
+
+## 📌 Use Case
+Useful for cybersecurity analysts, business analysts, and decision-makers to understand cyber risk patterns and prioritize security strategies.
