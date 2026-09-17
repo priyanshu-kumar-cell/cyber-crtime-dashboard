@@ -134,7 +134,7 @@ This project is licensed under the MIT License.
 **Your Name**
 
 * GitHub: https://github.com/priyanshu-kumar-cell
-* LinkedIn: (optional)
+* LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-a7540a337/
 
 ---
 
